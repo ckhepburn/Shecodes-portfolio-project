@@ -107,6 +107,10 @@ p {
   padding: 120px 30px;
 }
 
+.logo {
+  max-height: 40px;
+}
+
 @media (max-width: 960px) {
   h1 {
     font-size: 44px;
